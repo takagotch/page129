@@ -1,8 +1,8 @@
 # Site
-name: "Affiliates Theme for Jekyll"
-title: "Affiliates Theme for Jekyll"
-description: "Jekyll Theme for Blogging"
-meta_description: "Jekyll theme for blogging."
+name: "Affiliates | tkvtv"
+title: "Affiliates | tkvtv"
+description: "いらっしゃいませ。"
+meta_description: "tkvtv for blogging."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
@@ -50,3 +50,4 @@ jekyll-archives:
 # Other
 markdown: kramdown
 highlighter: rouge
+
